@@ -29,8 +29,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="242.41843"
-     inkscape:cy="113.29652"
+     inkscape:cx="141.347"
+     inkscape:cy="270.43938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -250,12 +250,12 @@
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="107.08558"
        y="735.44446"
-       id="textWarning"
+       id="textThreat"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan18143"
          x="107.08558"
-         y="735.44446">$Warning</tspan></text>
+         y="735.44446">$Threat</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
